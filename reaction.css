@@ -1,0 +1,14 @@
+﻿body {
+}
+
+
+#box {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    display: none;
+    margin-left: 50px;
+    margin-top: 170px; 
+}
+
+
